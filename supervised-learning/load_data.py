@@ -50,3 +50,12 @@ def load_heart_disease():
     std = np.std(x, axis=0)
     x = (x - mu)/std
     return x, y
+
+def load_diabetes():
+    arr = load_file("diabetes.csv")
+    y = arr[:,8]
+    x = arr[:,:8]
+    mu = np.mean(x, axis=0)
+    std = np.std(x, axis=0)
+    x = (x - mu)/std
+    return x,y
