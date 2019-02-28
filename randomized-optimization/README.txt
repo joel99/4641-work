@@ -1,4 +1,4 @@
-All code found on my github at: 
+All code found on my github at: https://github.com/joel99/4641-work
 
 I used mlrose to run the experiments, generously provided by 4641 alum Genevieve Hayes - documentation here: https://mlrose.readthedocs.io/en/stable/
   - Some changes were made for the assignment
