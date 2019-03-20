@@ -1,0 +1,22 @@
+Graphs:
+  Attempts is a termination condition (we stop the algo at attempts or iterations)
+  RHC:
+    Fitness v Iterations/Generations
+    Fitness v Restarts
+    Fitness v Attempts
+  SA:
+    Fitness v Iterations/Generations
+    Fitness v Attempts
+  GA:
+    Fitness v Iterations/Generations
+    Fitness v Population
+    Time v Iterations
+    Time v Generations
+  MIMIC:
+
+
+
+Problems:
+  flip_flop SA
+  four_peaks (cheap compute) MIMIC
+  knapsack
